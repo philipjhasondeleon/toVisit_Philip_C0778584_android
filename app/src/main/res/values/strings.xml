@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">toVisit_Philip_C0778584_android</string>
+    <string name="app_name">Favourite Places</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MENU</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_dashboard">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_distance">Distance</string>
 </resources>

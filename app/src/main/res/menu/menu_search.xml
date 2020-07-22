@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_detail"
+        android:title="Nearby Places "
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/action_restaurant"
+                android:title="Restaurants" />
+            <item
+                android:id="@+id/action_cafe"
+                android:title="Cafe's" />
+            <item
+                android:id="@+id/action_museums"
+                android:title="Museums" />
+            <item
+                android:id="@+id/action_school"
+                android:title="Schools" />
+        </menu>
+    </item>
+</menu>
